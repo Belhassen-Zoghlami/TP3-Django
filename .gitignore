@@ -1,0 +1,10 @@
+my_env/
+__pycache__/
+*.pyc
+
+db.sqlite3
+
+# Variables sensibles
+.env
+.env.*
+!.env.example
